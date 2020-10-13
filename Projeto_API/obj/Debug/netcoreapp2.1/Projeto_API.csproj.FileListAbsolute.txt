@@ -1,0 +1,15 @@
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\bin\Debug\netcoreapp2.1\Projeto_API.deps.json
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\bin\Debug\netcoreapp2.1\Projeto_API.runtimeconfig.json
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\bin\Debug\netcoreapp2.1\Projeto_API.runtimeconfig.dev.json
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\bin\Debug\netcoreapp2.1\Projeto_API.dll
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\bin\Debug\netcoreapp2.1\Projeto_API.pdb
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\obj\Debug\netcoreapp2.1\Projeto_API.csproj.CoreCompileInputs.cache
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\obj\Debug\netcoreapp2.1\Projeto_API.RazorAssemblyInfo.cache
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\obj\Debug\netcoreapp2.1\Projeto_API.RazorAssemblyInfo.cs
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\obj\Debug\netcoreapp2.1\Projeto_API.AssemblyInfoInputs.cache
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\obj\Debug\netcoreapp2.1\Projeto_API.AssemblyInfo.cs
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\obj\Debug\netcoreapp2.1\Projeto_API.RazorTargetAssemblyInfo.cache
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\obj\Debug\netcoreapp2.1\Projeto_API.dll
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\obj\Debug\netcoreapp2.1\Projeto_API.pdb
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\obj\Debug\netcoreapp2.1\Projeto_API.csprojAssemblyReference.cache
+C:\Users\a.carolina.clemente\Desktop\Teste_API\Projeto_API\Projeto_API\bin\Debug\netcoreapp2.1\Projeto_API.xml
